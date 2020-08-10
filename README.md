@@ -4,7 +4,9 @@ I'm a developer specialized in front-end. :computer:
 <br />
 I would love to become a complete fullstack developper to extend my skills.
 <br />
-I'm enthusiast about new technologies. Also have an UI sensivity. I'm not afraid to learn because I like challenges and surpass myself. :sunglasses:
+I'm enthusiast about new technologies. Also have an UI sensivity. 
+<br />
+I'm not afraid to learn because I like challenges and surpass myself. :sunglasses:
 
 - 👯 I’m really opened to collaborate with motivated people
 - 📆 2020 Goals: Start to contribute to pen Source projects
