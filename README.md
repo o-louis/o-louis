@@ -12,8 +12,6 @@ I'm enthusiast about new technologies. Also have an UI sensivity. I'm not afraid
 - ⚡ Fun fact: I love to play instruments (bass, piano, guitar) and discover the nature :herb:
 
 <br />
-<br />
-
 
 ### Languages and Tools:
 
