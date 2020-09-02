@@ -1,4 +1,4 @@
-### Hi there, I'm Oriane 👋
+### Hi there, I'm Oriane
 
 I'm a developer specialized in front-end. :computer:
 <br />
@@ -8,10 +8,7 @@ I'm enthusiast about new technologies. Also have an UI sensivity.
 <br />
 I'm not afraid to learn because I like challenges and surpass myself. :sunglasses:
 
-- 👯 I’m really opened to collaborate with motivated people
-- 📆 2020 Goals: Start to contribute to pen Source projects
-- 📫 How to reach me: oriane.louis.pro@gmail.com
-- ⚡ Fun fact: I love to play instruments (bass, piano, guitar) and discover the nature :herb:
+📫 How to reach me: oriane.louis.pro@gmail.com
 
 ### Connect with me:
 
