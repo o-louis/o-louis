@@ -13,7 +13,6 @@ I'm not afraid to learn because I like challenges and surpass myself. :sunglasse
 ### Connect with me:
 
 [<img align="left" alt="o-louis" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="o-louis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="o-louis | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 <br />
@@ -40,5 +39,4 @@ I'm not afraid to learn because I like challenges and surpass myself. :sunglasse
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&hide_border=true" />
 
 [website]: https://o-louis.com
-[linkedin]: https://linkedin.com/in/oriane-louis
 [codepen]: https://codepen.io/reavenclaw
