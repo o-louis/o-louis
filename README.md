@@ -6,7 +6,7 @@ I would love to become a complete fullstack developper to extend my skills.
 <br />
 I'm enthusiast about new technologies. Also have an UI sensivity. 
 <br />
-I'm not afraid to learn because I like challenges and surpass myself. :sunglasses:
+I also like challenges and surpass myself. :sunglasses:
 
 📫 How to reach me: oriane.louis.pro@gmail.com
 
