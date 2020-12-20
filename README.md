@@ -8,9 +8,9 @@ I like challenges and surpassing myself.
 
 📫 Contact: oriane.louis.pro@gmail.com
 
-### Connect with me:
+
 [Portfolio][website]
-|
+<br />
 [Codepen][codepen]
 <br />
 
