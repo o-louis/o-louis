@@ -6,7 +6,7 @@ Passionnate about UI/UX.
 <br />
 I like challenges and surpassing myself.
 
-📫 Contact: oriane.louis.pro@gmail.com
+📫 oriane.louis.pro@gmail.com
 
 
 [Portfolio][website]
