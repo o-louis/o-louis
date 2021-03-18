@@ -2,7 +2,7 @@
 
 I'm Oriane, **Front-End Developer**.
 
-- 😎 I'm currently looking for a **new opportunity**, ideally with **Vue.js** but React.js is also fun.
+- 😎 I'm currently looking for a **new opportunity**, ideally with **Vue.js** but **React.js** is also nice.
 - 🔭 I'm passionnate about **UI/UX** and **new technologies**.
 - ❤️ I like **challenges** and **surpassing myself**.
 <p>
