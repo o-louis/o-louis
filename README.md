@@ -1,21 +1,9 @@
 ### Hello 🤙
 
-Front-End Developer.
-<br />
-Passionnate about UI/UX.
-<br />
-I like challenges and surpassing myself.
+I'm Oriane, **Front-End Developer**.
 
-📫 oriane.louis.pro@gmail.com
+- 😎 I'm currently looking for a **new opportunity**, ideally with **Vue.js** but React.js is also fun.  
+- 🔭 I'm passionnate about **UI/UX** and **new technologies**.  
+- ❤️ I like **challenges** and **surpassing myself**.  
 
-
-[Portfolio][website]
-<br />
-[Codepen][codepen]
-<br />
-
----
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&hide_border=true" />
-
-[website]: https://o-louis.com
-[codepen]: https://codepen.io/reavenclaw
+![Oriane's github stats](https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&title_color=161e2e&icon_color=64748b&bg_color=fbfdfe&text_color=475569&cache_seconds=7200&hide=[%22contribs%22])
