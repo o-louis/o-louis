@@ -1,7 +1,6 @@
 ### Hi there 🤙
 
 I'm a Front-End Developer working in Montreal, Canada.
-<img align='right' src='https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif' height="130">
 
 - 🌱 I particularly enjoy **VueJS**.
 - 🖥 I love **coding** and interested in everything. 
