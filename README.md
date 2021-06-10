@@ -1,14 +1,18 @@
-### Hello 🤙
+### Hey 🤙
 
-I'm Oriane, **Front-End Developer**.
+I'm a Front-End Developer working in Montreal, Canada.
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-- 🔰 I love Vue.js.
+- 🌱 I particularly enjoy VueJS.
+- 🖥 I love coding and interested in everything. 
 - 🔭 I'm passionnate about **UI/UX** and **new technologies**.
-- ❤️ I like **challenges** and **surpassing myself**.
+
 <p>
   <a href="https://codepen.io/reavenclaw">
-    <img src="https://s2.svgbox.net/social.svg?ic=codepen&color=000000" width="25" height="25">
+    <img src="https://s2.svgbox.net/social.svg?ic=codepen&color=388A6E" width="32" height="32">
   </a>
 </p>
 
-![Oriane's github stats](https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&title_color=161e2e&icon_color=64748b&bg_color=fbfdfe&text_color=475569&cache_seconds=7200&hide=[%22contribs%22])
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-louis&layout=compact&theme=gotham"  height="170" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&show_private=true&=&count_private=true&hide=stars&theme=gotham" align="right"/>
+
