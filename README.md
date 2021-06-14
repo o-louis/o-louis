@@ -12,6 +12,6 @@ I'm a Front-End Developer working in Montreal, Canada.
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-louis&layout=compact&hide_border=true&theme=vue" height="160" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&show_private=true&=&hide_border=true&count_private=true&hide=stars&theme=vue" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-louis&layout=compact&hide_border=true&theme=graywhite" height="160" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&show_private=true&=&hide_border=true&count_private=true&hide=stars&theme=graywhite" height="160"/>
 
