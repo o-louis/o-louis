@@ -8,10 +8,10 @@ I'm a Front-End Developer working in Montreal, Canada.
 
 <p>
   <a href="https://codepen.io/reavenclaw">
-    <img src="https://s2.svgbox.net/social.svg?ic=codepen&color=388A6E" width="32" height="32">
+    <img src="https://s2.svgbox.net/social.svg?ic=codepen&color=ffffff" width="32" height="32">
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-louis&layout=compact&hide_border=true&theme=vue-dark" height="160" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&show_private=true&=&hide_border=true&count_private=true&hide=stars&theme=vue-dark" height="160" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-louis&layout=compact&hide_border=true&theme=vue" height="160" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&show_private=true&=&hide_border=true&count_private=true&hide=stars&theme=vue" height="160"/>
 
