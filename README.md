@@ -7,7 +7,7 @@ I'm a **Front-End Developer** working in Montreal, Canada.
 - 🔭 I'm passionnate about **UI/UX** and **new technologies**.
 
 <p>
-  <a href="https://codepen.io/reavenclaw">
+  <a href="https://codepen.io/reavenclaw" target="_blank">
     <img src="https://s2.svgbox.net/social.svg?ic=codepen&color=ffffff" width="32" height="32">
   </a>
 </p>
