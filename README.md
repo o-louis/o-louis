@@ -11,7 +11,7 @@ I'm a **Front-End Developer**.
     <img src="https://s2.svgbox.net/social.svg?ic=codepen&color=ffffff" width="32" height="32">
   </a>
 </p>
-
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-louis&layout=compact&hide_border=true&theme=graywhite" height="160" align="left" />
-<img src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&show_private=true&=&hide_border=true&count_private=true&hide=stars&theme=graywhite" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=o-louis&show_icons=true&show_private=true&=&hide_border=true&count_private=true&hide=stars&theme=graywhite" height="160"/> -->
 
