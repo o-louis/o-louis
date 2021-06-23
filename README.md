@@ -1,6 +1,6 @@
 ### Hi there 🤙
 
-I'm a **Front-End Developer** working in Montreal, Canada.
+I'm a **Front-End Developer**.
 
 - 🌱 I particularly enjoy **VueJS**.
 - 🖥 I love **coding** and interested in everything. 
