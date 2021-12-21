@@ -5,7 +5,7 @@ I'm **o-louis**, a Front-End Developer.
 - 🔰 I particularly enjoy **VueJS**.
 - 🖥 I love **coding** and interested in everything. 
 - 🖼 I'm passionnate about **UI/UX** and **new technologies**.
-- 📚 Currently, I'm learning Three.js. I'm discovering the world of creative development. ✨
+- 📚 Currently, I'm learning Three.js. I'm discovering the world of creative development.
 
 <br />
 
